@@ -12,11 +12,11 @@
 ***
 
 ### 游戏截图
-[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png)
 
-[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png)
 
-[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p3.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p3.png)
 
 ***
 
