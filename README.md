@@ -9,16 +9,18 @@
 
 开发环境：Cocos Creator  开发语言：JavaScript
 
+Authored in 2019
+
 ***
 
 ### 游戏截图
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png?raw=true)
 
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png?raw=true)
 
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p4.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p4.png?raw=true)
 
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p5.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p5.png?raw=true)
 
 ***
 
@@ -30,6 +32,16 @@
 - E 陷阱：布置一个静止的限时炮弹
 - R 全屏轰炸，冷却较长
 - 鼠标悬停在单位（盟友、敌人、小动物）、技能图标、地图元素上，可显示提示信息
+
+***
+
+### 游戏视频
+
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598773&page=16" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598784&page=17" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598812&page=18" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ***
 
