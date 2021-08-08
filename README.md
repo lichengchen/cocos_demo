@@ -11,6 +11,15 @@
 
 ***
 
+### 游戏截图
+[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png)
+
+[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png)
+
+[img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p3.png)
+
+***
+
 ### 操作教程
 - 鼠标右键  移动
 - 鼠标左键  普攻射击（仅6方向）
@@ -19,6 +28,8 @@
 - E 陷阱：布置一个静止的限时炮弹
 - R 全屏轰炸，冷却较长
 - 鼠标悬停在单位（盟友、敌人、小动物）、技能图标、地图元素上，可显示提示信息
+
+***
 
 ### 实现思路简介
 用cocos框架规定的树状挂载方式布局要显示的渲染元素。用框架的“分类”功能区分三个类：盟友、敌人、炮弹。 玩家操作的英雄实际上不会与敌人直接交互，只能根据玩家输入产生不同的炮弹。用框架的碰撞盒子功能， 定义炮弹类和敌人类的碰撞、盟友类和敌人类的碰撞。用挂载的JS文件描述每个类中对象的行为，如播放特定动画、 运动、与其他对象通信、构造新的对象、析构等。
