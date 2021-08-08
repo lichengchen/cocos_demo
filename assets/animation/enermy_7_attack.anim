@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enermy_7_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "089b8395-13bb-48e9-92d1-b66ca11bd15f"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "14bcc4d8-430a-4ea3-9398-62ceb80ab1fd"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "587ef3c3-5b47-4497-83a4-ff078ec7a500"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "832108b5-ab75-4302-b4c2-6dcab7baeb1b"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "77274416-cd1b-46a9-8028-0a3a5c19f312"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "9843d659-f921-4fa6-b96f-5f97685e6dad"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7cceb13a-9ce2-4561-b1e5-f8bb12c6905c"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "09d29c3a-dd73-4eb2-8db7-18b577f43651"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "e39f4e79-8ee5-43b2-a6f5-e6dacf0f6fdf"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "6428f242-2ca7-4344-ac30-7e7719c31809"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.15,
+      "func": "on_atk_finish",
+      "params": []
+    }
+  ]
+}

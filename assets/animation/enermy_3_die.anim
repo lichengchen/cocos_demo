@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enermy_3_die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4b1124c4-46c7-4fd6-a778-4dc237060b79"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "017502bb-e489-4257-a43c-0f220a03e52d"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "79623101-d07c-4c6d-926f-85ee33a43932"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1ed17f9c-68a0-4761-a221-f6ae52b073ec"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "de4bc3b1-b28e-483b-bea2-e911f7cab0d6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

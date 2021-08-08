@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "castle_openDoor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4204b0ad-07b8-4327-9b69-f31649c7af43"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "1429c74b-f00f-4977-9978-8eacdc5ecd1e"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "42b59974-a1b0-4f4c-89bd-2dbaf1eff3a8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a7260412-7572-40e2-b71c-e0acffde0153"
+            }
+          },
+          {
+            "frame": 1.6833333333333333,
+            "value": {
+              "__uuid__": "42b59974-a1b0-4f4c-89bd-2dbaf1eff3a8"
+            }
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": {
+              "__uuid__": "1429c74b-f00f-4977-9978-8eacdc5ecd1e"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "4204b0ad-07b8-4327-9b69-f31649c7af43"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

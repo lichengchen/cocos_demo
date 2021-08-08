@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rocket_boom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.17,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ae5e191f-aff4-49bf-b82c-3b9f55e8176b"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "e3ad865e-03ba-442e-a742-be3244280e6a"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "65a84109-7ee3-4d14-972c-b8797728fae3"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "fba299cc-bbd4-4214-9429-1b234b6620cb"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "1362b496-d8e8-428d-a4c4-1bbf7d3eb21f"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "4784d0b6-47fe-427a-953d-cb7005e0bea7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "086a800f-3c2d-415d-a9c6-ab247eace114"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "c7f43503-f30d-46f5-9fbd-557a63824052"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "46f85923-3585-4d0b-9163-b8529eaa3735"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "92c91db6-a903-4b8f-8e2a-b29dfd3978ad"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "on_boom_finish",
+      "params": []
+    }
+  ]
+}

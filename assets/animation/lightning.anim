@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lightning",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 0.22,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0a54d100-ddf8-4c1f-8573-f152d7c41285"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "532c3796-b9dd-493a-9f6f-776df3f68051"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "e11be4e4-5ab5-4fa7-a65b-9dbc3caf2bf4"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "23e8f890-c5bd-4000-9e85-3b7907f59cd2"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "43186ed7-f83b-4535-af04-b6566bac43e1"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "a1c62a86-20f0-4ffb-8c57-f14618b438ea"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "651dcd8a-9dc4-4c41-b6bd-1bc2d72fcb5f"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "a09e4bc3-6f40-423d-8770-1b38616e3dab"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "dce75c58-720d-4541-9b88-9773e742bb9e"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "156b0735-06d5-4774-9b6e-4a0c5af4295e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "819c20bf-ef78-49f8-a0f6-e76602c217b4"
+            }
+          },
+          {
+            "frame": 0.18333333333333332,
+            "value": {
+              "__uuid__": "60b3ce33-7a2a-4a92-bf41-1ed49e0853c6"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "35c14034-00d4-4f5c-bb84-33822a2b8a32"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.21666666666666667,
+      "func": "on_lighting_finish",
+      "params": []
+    }
+  ]
+}

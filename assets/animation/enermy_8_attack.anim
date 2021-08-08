@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enermy_8_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "499b1951-f212-4fdf-b8ce-275b26dbf19f"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "500f1ca8-c650-4a8c-8425-d6b5a65e8b50"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "e3eac5b8-769e-4780-b20d-d522ee302bff"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "59f30499-8989-44e8-8749-3258c7529eb8"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "9eb1c86f-feac-4ebe-933e-e30f92170a83"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "4d275cdc-8c28-47f6-9e18-2ca3f2576f68"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.08333333333333333,
+      "func": "on_atk_finish",
+      "params": []
+    }
+  ]
+}

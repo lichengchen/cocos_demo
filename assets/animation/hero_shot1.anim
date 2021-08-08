@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hero_shot1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d439ca27-969b-4a23-9cd0-11835c473143"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "87849da0-05f4-4a07-b2bb-846a56b9313c"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ca92b174-9978-47b1-9413-bab5a808cd04"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d53d305e-d430-4b7c-b7b3-50ad7c8ab474"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1ff95554-369b-40b7-832f-df64802e5d06"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "e711d6a1-1a0c-4fff-9778-6c3d01ad19e2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ed7478a7-9cc5-4c19-bbdf-33b7d0a1065b"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "98ed26b6-590d-44fd-92a7-611dc3786e2b"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "201329e1-4726-4a11-ac77-115454299dcb"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e736255e-aebb-42d1-b509-e4aadb2b93e9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.7666666666666667,
+      "func": "on_shot_finish",
+      "params": []
+    }
+  ]
+}
