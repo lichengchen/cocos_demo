@@ -1,4 +1,4 @@
-# Cocos
+# cocos_demo
 网页小游戏 火枪手大作战
 
 游戏的图片、音乐等资源来自经典塔防游戏王国保卫战（Kingdom Rush）， 原作者为乌拉圭的铁皮工作室（Ironhide Game Studio）。本程序仅用于学习，勿作其他用途。
