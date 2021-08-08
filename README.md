@@ -1,4 +1,4 @@
-# cocos_demo
+# 简介
 网页小游戏 火枪手大作战
 
 游戏的图片、音乐等资源来自经典塔防游戏王国保卫战（Kingdom Rush）， 原作者为乌拉圭的铁皮工作室（Ironhide Game Studio）。本程序仅用于学习，勿作其他用途。
@@ -13,7 +13,7 @@ Authored in 2019
 
 ***
 
-### 游戏截图
+# 游戏截图
 ![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p1.png?raw=true)
 
 ![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png?raw=true)
@@ -24,7 +24,7 @@ Authored in 2019
 
 ***
 
-### 操作教程
+# 操作教程
 - 鼠标右键  移动
 - 鼠标左键  普攻射击（仅6方向）
 - Q 强化下次射击，炮弹速度、伤害翻倍
@@ -35,7 +35,7 @@ Authored in 2019
 
 ***
 
-### 游戏视频
+# 游戏视频
 
 <iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598773&page=16" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
@@ -50,5 +50,5 @@ Authored in 2019
 
 ***
 
-### 实现思路简介
+# 实现思路简介
 用cocos框架规定的树状挂载方式布局要显示的渲染元素。用框架的“分类”功能区分三个类：盟友、敌人、炮弹。 玩家操作的英雄实际上不会与敌人直接交互，只能根据玩家输入产生不同的炮弹。用框架的碰撞盒子功能， 定义炮弹类和敌人类的碰撞、盟友类和敌人类的碰撞。用挂载的JS文件描述每个类中对象的行为，如播放特定动画、 运动、与其他对象通信、构造新的对象、析构等。
