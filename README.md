@@ -9,6 +9,8 @@
 
 开发环境：Cocos Creator  开发语言：JavaScript
 
+Authored in 2019
+
 ***
 
 ### 游戏截图
