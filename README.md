@@ -16,7 +16,9 @@
 
 ![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p2.png)
 
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p3.png)
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p4.png)
+
+![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p5.png)
 
 ***
 
